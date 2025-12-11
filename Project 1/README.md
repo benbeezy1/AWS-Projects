@@ -26,7 +26,7 @@ The project covers bucket creation, static website configuration, file uploads, 
 
 <p align="center">
 Create an S3 Bucket: <br/>
-<img src="INSERT-IMAGE-LINK-HERE" height="80%" width="80%" alt="Create S3 Bucket"/>
+<img src="https://i.imgur.com/knXv373.jpeg" height="80%" width="80%" alt="Create S3 Bucket"/>
 <br /><br />
 
 <p align="center">
